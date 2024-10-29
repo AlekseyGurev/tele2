@@ -1,0 +1,15 @@
+.container {
+  cursor: pointer;
+}
+
+.hamburgerIcon {
+  display: block;
+  width: 18px;
+  height: 14px;
+}
+
+.closeIcon {
+  display: block;
+  width: 18px;
+  height: 20px;
+}

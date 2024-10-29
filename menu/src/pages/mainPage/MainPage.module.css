@@ -1,0 +1,10 @@
+.mainPage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.page {
+  text-align: center;
+  flex-grow: 1;
+}
